@@ -1,14 +1,21 @@
-// arrays, objetos
+const start = () => {
+  
+  while(true){
+    let opcao = "cadastrar"
 
-let meta = {
-  value: "ler um livro por mês",
-  checked: false,
-  isChecked: () => {}
+    switch (opcao) {
+      case "cadastrar":
+        console.log("Vamos cadastrar")
+        break
+      
+      case "listar":
+        console.log("vamos listar")
+        break
+      
+      case "sair":
+        return
+    }
+  }
 }
 
-console.log()
-meta.isChecked()
-
-// function // arrow function
-
-const criarMeta = () => {}
+start()
