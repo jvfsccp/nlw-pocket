@@ -74,9 +74,9 @@ Apresentar os dados
 
 ## JSON 
 
--[X] JavaScript Object Notation (.json)
--[x] JSON.parse(): transforma de JSON para JS
--[x] JSON.stringfy(): transforma de JS para JSON
+- [x] JavaScript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringfy(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
